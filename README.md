@@ -1,12 +1,33 @@
-# React + Vite
+# 🛍️ Shopverse
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Shopverse is a modern e-commerce web application built with **React + Vite**, integrated with **Clerk** for authentication, and deployed on **Vercel**.  
+It offers a clean, responsive UI and essential features for online shopping.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
+🔗 **[Shopverse Live on Vercel](https://shopverse-eight.vercel.app/)**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
+- **User Authentication** – Secure sign-in/sign-up with [Clerk](https://clerk.com)
+- **Responsive Design** – Works on desktop, tablet, and mobile
+- **Product Listing** – Browse products with a clean UI
+- **Cart Management** – Add/remove items from the cart
+- **Smooth Navigation** – Powered by React Router
+- **Toast Notifications** – For better UX
+- **Scroll to Top Button** – For quick navigation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** React, Vite, Tailwind CSS
+- **Authentication:** Clerk
+- **Routing:** React Router DOM
+- **State Management:** React Context API
+- **Icons:** React Icons
+- **Notifications:** React Toastify
+- **Deployment:** Vercel
+
+---
+
+## 📂 Project Structure
